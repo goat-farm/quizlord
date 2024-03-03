@@ -1,3 +1,9 @@
+# HERD:
+
+I'd like to gamify productive discourse because if we took the time to explain everything to toddlers the world would be a better place
+
+
+
 # Quizmaster
 
 [![CI Status](https://github.com/nymanjens/quizmaster/actions/workflows/ci.yml/badge.svg)](https://github.com/nymanjens/quizmaster/actions)
