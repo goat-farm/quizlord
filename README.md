@@ -1,6 +1,6 @@
 # HERD:
 
-I'd like to gamify productive discourse because if we took the time to explain everything to toddlers the world would be a better place
+I'd like to gamify productive discourse because if we took the time to explain everything to toddlers the world would be a better place. This is copied from another user (fork yeah!) but could be a great place to start. 
 
 
 
